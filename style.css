@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.padding {
+ padding: 15px;
+
+}
+
+#intro {
+    background-color: orange;
+    height: 850px;
+}
+
+#aboutme {
+    background-color: pink;
+    height: 850px;
+}
+
+#projects {
+    background-color: blue;
+    height: 850px;
+}
+
+#located {
+    background-color: yellow;
+    height: 850px;
+}
+
+#company {
+    background-color: purple;
+    height: 850px;
+}
+
+#outro {
+    background-color: grey;
+    height: 850px;
+}
+
+#contact {
+    background-color: sienna;
+    height: 850px;
+}
